@@ -1,0 +1,25 @@
+{
+    "name": "1",
+    "version": "1.0.0",
+    "description": "telegram bot using grammyjs framework",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js",
+      "is": "npm install && npm start"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ryuxyro"
+    },
+    "keywords": [
+      "kazuoyuuka",
+      "ryuxyro",
+      "telegram-bot"
+    ],
+    "author": "Kazuo",
+    "license": "ISC",
+    "dependencies": {
+      "grammy": "^1.21.1"
+    }
+  }
